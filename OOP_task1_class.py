@@ -5,7 +5,7 @@ class test_of_multiples():
         self.range_end = range_end
         self.fizz = fizz
         self.buzz = buzz
-     def fizzbuzz(self): #method
+     def fizzbuzz(self):
         list = []
         for i in range(self.range_start, self.range_end + 1):
             if i % self.fizz == 0 and i % self.buzz == 0: #condition for multiple of both numbers
