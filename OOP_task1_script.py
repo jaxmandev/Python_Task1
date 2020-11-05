@@ -1,5 +1,5 @@
 from OOP_task1_class import *
-
+# ask user to input the range borders and the numbers to test multiples on
 fizz = int(input('What number would you like to replace multiples of with "Fizz"? '))
 buzz = int(input('What number would you like to replace multiples of with "Buzz"? '))
 range_start = int(input('Where would you like to start? '))
