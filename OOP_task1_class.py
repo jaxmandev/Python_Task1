@@ -18,4 +18,4 @@ class test_of_multiples():
                     list.append("Buzz")
                 else:
                     list.append(i)
-            return(list)
+            return list
