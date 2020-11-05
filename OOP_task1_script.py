@@ -1,4 +1,4 @@
-from OOP_task1_class import test_of_multiples
+from OOP_task1_class import *
 
 fizz = int(input('What number would you like to replace multiples of with "Fizz"?'))
 buzz = int(input('What number would you like to replace multiples of with "Buzz"?'))
