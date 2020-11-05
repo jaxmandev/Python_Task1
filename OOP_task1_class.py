@@ -1,4 +1,4 @@
-class test_of_multiples:
+class test_of_multiples():
     def __init__(self, range_start, range_end, fizz, buzz):
         #initialise the class with 4 attributes excl self
         self.range_start = range_start
