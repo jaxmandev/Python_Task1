@@ -1,9 +1,11 @@
+# 4 attributes excluding self are initiated
 class test_of_multiples():
     def __init__(self, range_start, range_end, fizz, buzz):
         self.range_start = range_start
         self.range_end = range_end
         self.fizz = fizz
         self.buzz = buzz
+    # fizzbuzz method will deliver the desired dataset after executing control flow
     def fizzbuzz(self):
         list = []
         for i in range(self.range_start, self.range_end + 1):
